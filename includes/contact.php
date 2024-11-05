@@ -26,17 +26,6 @@
                                 class="text-decoration-none text-dark">
                                 <img src="https://img.icons8.com/ios-filled/50/000000/instagram-new.png" alt="Instagram"
                                     style="width: 24px;"> Instagram
-                            </a>
-                            <a href="https://threads.net/yourprofile" target="_blank"
-                                class="text-decoration-none text-dark">
-                                <img src="https://img.icons8.com/ios-filled/50/000000/comments.png" alt="Threads"
-                                    style="width: 24px;"> Threads
-                            </a>
-                            <a href="https://twitter.com/yourprofile" target="_blank"
-                                class="text-decoration-none text-dark">
-                                <img src="https://img.icons8.com/ios-filled/50/000000/twitter.png" alt="Twitter"
-                                    style="width: 24px;"> Twitter
-                            </a>
                         </div>
                     </div>
                 </div>
@@ -44,7 +33,7 @@
         </div>
     </div>
 
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+    <script src="Assets/js/bootstrap.bundle.min.js"></script>
 </body>
 
 </html>

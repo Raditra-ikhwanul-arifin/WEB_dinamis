@@ -6,10 +6,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Bootstrap demo</title>
     <!-- Bootstrap -->
-    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <link href="Assets/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Datatables -->
-    <link href="assets/datatables/dataTables.dataTables.css" rel="stylesheet">
+    <link href="Assets/datatables/dataTables.bootstrap5.css" rel="stylesheet">
 </head>
 
 <body>
@@ -46,10 +46,10 @@
         </div>
         <!-- konten -->
 
-        <script src="assets/jquery-3.7.1.js"></script>
-        <script src="assets/datatables/dataTables.js"></script>
-
-        <script src="assets/js/bootstrap.bundle.min.js"></script>
+        <script src="Assets/jquery-3.7.1.js"></script>
+        <script src="Assets/js/bootstrap.bundle.min.js"></script>
+        <script src="Assets/datatables/dataTables.js"></script>
+        <script src="Assets/datatables/dataTables.bootstrap5.js"></script>
 
         <script>
         new DataTable('#example');
