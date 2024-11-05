@@ -39,7 +39,7 @@
 
     <div class="profile-container">
         <!-- Foto Profil -->
-        <img src="image/sigit rendang.PNG" class="profile-img"
+        <img src="image/M3aseli.jpg" class="profile-img"
             alt="Foto Raditra Ikhwanul Arifin">
 
         <!-- Nama dan Universitas -->
